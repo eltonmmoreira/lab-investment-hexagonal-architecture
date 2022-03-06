@@ -1,0 +1,1 @@
+# lab-investment-hexagonal-architecture
